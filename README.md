@@ -1,10 +1,9 @@
 # Superresolution using an efficient sub-pixel convolutional neural network
 
 EPSCN_tensorflow 레파지토리는 colab 공식 espcn 코드를 활용하여 작성하였습니다.   
-["Colab code"](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/super_resolution_sub_pixel.ipynb#scrollTo=il1NiNVcOAuA) <- 클릭 시 코랩 코드로 이동
+["Colab code"](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/super_resolution_sub_pixel.ipynb) <- 클릭 시 코랩 코드로 이동
    
-해당 코드는 tensorflow를 활용하여 작성되었습니다.
-["super_resolution_sub_pixel"](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/super_resolution_sub_pixel.ipynb)
+해당 코드는 tensorflow를 활용하여 작성되었습니다.   
 
 ## EPSCN을 활용한 Super-Resolution
 
